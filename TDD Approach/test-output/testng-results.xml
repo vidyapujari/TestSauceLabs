@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42228" started-at="2021-07-01T03:22:50Z" finished-at="2021-07-01T03:23:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42228" started-at="2021-07-01T03:22:50Z" finished-at="2021-07-01T03:23:32Z">
+      <class name="automation.TestProject.TestSauceProject">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="beforeTest" is-config="true" duration-ms="6515" started-at="2021-07-01T08:52:50Z" finished-at="2021-07-01T08:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="enterUserName()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="enterUserName" duration-ms="2270" started-at="2021-07-01T08:52:56Z" finished-at="2021-07-01T08:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUserName -->
+        <test-method status="PASS" signature="enterPassword()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="enterPassword" duration-ms="2133" started-at="2021-07-01T08:52:59Z" finished-at="2021-07-01T08:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method status="PASS" signature="clickLoginButton()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="clickLoginButton" duration-ms="2167" started-at="2021-07-01T08:53:01Z" finished-at="2021-07-01T08:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method status="PASS" signature="clickOnFilterDropDown()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="clickOnFilterDropDown" duration-ms="2216" started-at="2021-07-01T08:53:03Z" finished-at="2021-07-01T08:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFilterDropDown -->
+        <test-method status="PASS" signature="selectLowToHighPriceFilter()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="selectLowToHighPriceFilter" duration-ms="2321" started-at="2021-07-01T08:53:05Z" finished-at="2021-07-01T08:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLowToHighPriceFilter -->
+        <test-method status="PASS" signature="addingItemToCart()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="addingItemToCart" duration-ms="13216" started-at="2021-07-01T08:53:08Z" finished-at="2021-07-01T08:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingItemToCart -->
+        <test-method status="PASS" signature="viewingCart()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="viewingCart" duration-ms="6200" started-at="2021-07-01T08:53:21Z" finished-at="2021-07-01T08:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewingCart -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:automation.TestProject.TestSauceProject@62ee68d8]" name="closeapp" is-config="true" duration-ms="5132" started-at="2021-07-01T08:53:27Z" finished-at="2021-07-01T08:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- automation.TestProject.TestSauceProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
